@@ -1,0 +1,3 @@
+org/sonarsource/plugins/example/hooks/PostJobInScanner.class
+org/sonarsource/plugins/example/ExamplePlugin.class
+org/sonarsource/plugins/example/hooks/DisplayQualityGateStatus.class

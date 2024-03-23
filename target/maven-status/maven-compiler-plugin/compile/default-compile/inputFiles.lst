@@ -1,0 +1,3 @@
+/Users/poyaching/eclipse-workspace/sonar-custom-plugin-example-10.x/src/main/java/org/sonarsource/plugins/example/hooks/DisplayQualityGateStatus.java
+/Users/poyaching/eclipse-workspace/sonar-custom-plugin-example-10.x/src/main/java/org/sonarsource/plugins/example/hooks/PostJobInScanner.java
+/Users/poyaching/eclipse-workspace/sonar-custom-plugin-example-10.x/src/main/java/org/sonarsource/plugins/example/ExamplePlugin.java
